@@ -1,0 +1,11 @@
+.vscode/
+node_modules/
+local/
+data/
+dist/
+userData/
+test-script.js
+config.local.json
+electron-builder.local.json
+yarn-error.log
+npm-debug.log

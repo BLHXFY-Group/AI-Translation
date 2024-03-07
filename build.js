@@ -126,11 +126,13 @@ const collectStoryId = async () => {
   await fse.writeJson('./dist/story.json', storyp)
   await fse.writeJson('./dist/story-map.json', storyc)
   await fse.writeJSON('./dist/chapter-name.json', chapterName)
+  await fse.writeJson('./dist/story-raw.json', storyDataPast)
 }
 
 const start = async () => {
   await fse.emptyDir('./dist/blhxfy/')
   await collectStoryId()
+  await fse.outputFile('./dist/CNAME', 'blhx-ai.danmu9.com')
 }
 
 start()

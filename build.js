@@ -123,10 +123,10 @@ const collectStoryId = async () => {
   })
   let storyc = pako.deflate(JSON.stringify(storyData), { to: 'string' })
   let storyp = pako.deflate(JSON.stringify(storyDataPast), { to: 'string' })
-  await fse.writeJson('./dist/story.json', storyp)
-  await fse.writeJson('./dist/story-map.json', storyc)
-  await fse.writeJSON('./dist/chapter-name.json', chapterName)
-  await fse.writeJson('./dist/story-raw.json', storyDataPast)
+  await fse.writeJson('./dist/blhxfy/story.json', storyp)
+  await fse.writeJson('./dist/blhxfy/story-map.json', storyc)
+  await fse.writeJSON('./dist/blhxfy/chapter-name.json', chapterName)
+  await fse.writeJson('./dist/blhxfy/story-raw.json', storyDataPast)
 }
 
 const start = async () => {

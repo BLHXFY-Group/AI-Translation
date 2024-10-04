@@ -1,0 +1,28 @@
+id,name,text,trans
+0-chapter_name,,お兄ちゃんは妹に会いたい,哥哥想见妹妹
+0-synopsis,,ライアンの妹を探しながら森を進む姬塔一行。道中、再び妹からの手紙を見つけるも、手紙の内容から姬塔一行はライアンが妹に遊ばれていると気が付く。しかし、ライアンは妹が心配なあまり姬塔一行を置いて、目覚ましい跳躍と加速で山へと飛び出していく。,姬塔一行为了寻找莱安的妹妹而在森林里穿梭。途中，他们再次发现了妹妹留下的信，但从信的内容来看，姬塔一行意识到莱安是被妹妹耍得团团转。然而，莱安却因为太过担心妹妹，将姬塔一行人抛在身后，以惊人的跳跃力和速度冲向了山里。
+0,,<span class='scene-font-katari'>一行は森をくまなく探すが、</span>\n<span class='scene-font-katari'>道中倒した魔物以外に</span>\n<span class='scene-font-katari'>生物を見つけることは出来なかった。,<span class='scene-font-katari'>一行人在森林里到处搜寻，</span>\n<span class='scene-font-katari'>但除了路上打倒的魔物以外，</span>\n<span class='scene-font-katari'>并没有发现其他生物。
+1,ライアン,ぐ、ぐぐぅ！！\nコンロン！！　一体どこに！！\n危ないから、危ないから帰っておいで！,咕、咕咕！！\n空龙！！　你到底在哪里！！\n太危险了，太危险了快回来！
+2,ライアン,それよりもなぜ、なぜ家出を！\nおお、これが反抗期か……！！\nくぅ……！！,话说你为什么要离家出走啊！\n哦，这就是传说中的叛逆期吗……！！\n可恶……！！
+3,ビィ/碧,えっと……なぁライアン。\n落ち着いて聞いてくれよな？,那个……我说莱安。\n你冷静点听我说好吗？
+4,ルリア/露莉亚,あの、なにか変じゃないですか？\n家出なのに行き先を書くだなんて――,那个，你不觉得哪里怪怪的吗？\n离家出走还写明去向什么的――
+5,ライアン,ッ！！\nこの森に誰かいる……！！,！\n这片森林里有人……！！
+7,,<span class='scene-font-katari'>ライアンは何かを察知した様子を見せ、</span>\n<span class='scene-font-katari'>凄まじい速度で森を駆けだす。,<span class='scene-font-katari'>莱安像是察觉到了什么，</span>\n<span class='scene-font-katari'>以惊人的速度在森林里飞奔起来。
+8,ビィ/碧,うわぁ！！\nま、まってくれぇ！！\nライアン！！,哇啊！！\n等、等等我啊！！\n莱安！！
+10,,<span class='scene-font-katari'>姬塔一行が急いで</span>\n<span class='scene-font-katari'>ライアンのもとへ駆けつける。,<span class='scene-font-katari'>姬塔一行人急忙</span>\n<span class='scene-font-katari'>朝莱安跑去。
+12,,<span class='scene-font-katari'>するとライアンは手紙を拾って\n<span class='scene-font-katari'>硬直していた。,<span class='scene-font-katari'>只见莱安捡起一封信，</span>\n<span class='scene-font-katari'>僵在了原地。
+13,ルリア/露莉亚,え、えっと……\n今度は一体何が書かれてるんでしょうか？,呃、呃……\n这次又写了什么啊？
+14,,<span class='scene-font-katari'>恐る恐る一行は、</span>\n<span class='scene-font-katari'>手紙を覗き見る。,<span class='scene-font-katari'>一行人战战兢兢地，</span>\n<span class='scene-font-katari'>向信上看去。
+15,,『おにぃへ。\n相変わらず獣みたいな勘ね。\n今度は山へ行く。探さないで』,『给哥哥。\n你的直觉还是和野兽一样灵敏呢。\n这次我去山上。别来找我』
+16,ビィ/碧,えっとぉ……\nオイラわかったぞこれ……\nライアンたぶん妹に遊ばれてるぜ……,呃……\n我懂了……\n莱安你肯定是被妹妹耍了……
+17,ルリア/露莉亚,あはは……やっぱりそうですよね？\n行き先を書いているのに、\n探さないでって書いてありますし……,啊哈哈……果然是这样吗？\n明明写了去向，\n却又说别去找她……
+18,,<span class='scene-font-katari'>だがライアンは狼狽する。</span>\n<span class='scene-font-katari'>わなわなと震え、彼は頭を抱える。,<span class='scene-font-katari'>但莱安却慌了神。</span>\n<span class='scene-font-katari'>他浑身颤抖，抱住了脑袋。
+19,ライアン,や、山……！？　あそこか！？\nあの、山なのか！？,山、山……！？　是那里吗！？\n那座、山吗！？
+20,ライアン,あ、あんな危ない場所へ\n行ったら怪我しちゃうでしょ！！\nコンロォォォン！！！,啊、去那种危险的地方\n会受伤的吧！！\n空龙——！！！
+22,,<span class='scene-font-katari'>姬塔は今までライアンと共に</span>\n<span class='scene-font-katari'>様々な死線を潜りぬけてきた。,<span class='scene-font-katari'>姬塔至今为止与莱安一起</span>\n<span class='scene-font-katari'>跨越了无数生死难关。
+23,,<span class='scene-font-katari'>だからこそ、彼の運動能力を</span>\n<span class='scene-font-katari'>理解してきたつもりだった。,<span class='scene-font-katari'>因此，她自认为</span>\n<span class='scene-font-katari'>已经很了解他的运动能力了。
+24,,<span class='scene-font-katari'>だがライアンが今、目の前で見せた</span>\n<span class='scene-font-katari'>跳躍と加速は間違いなく、今までで</span>\n<span class='scene-font-katari'>最高のものであった。,<span class='scene-font-katari'>但莱安刚才在眼前展现出的</span>\n<span class='scene-font-katari'>跳跃和速度，毫无疑问是至今为止</span>\n<span class='scene-font-katari'>最强的。
+25,ビィ/碧,っておいこら！！　姬塔！！\n見惚れてる場合じゃねぇぞ！！！\n早く追いかけるぞ！！,喂喂！！　姬塔！！\n现在不是发呆的时候吧！！！\n快追啊！！
+26,,<span class='scene-font-katari'>姬塔は慌てて頷き、</span>\n<span class='scene-font-katari'>既に姿を消したライアンを追う。,<span class='scene-font-katari'>姬塔慌忙点头，</span>\n<span class='scene-font-katari'>追赶着早已不见踪影的莱安。
+info,,,scene_chr244_q2_s10
+译者,,,Gemini

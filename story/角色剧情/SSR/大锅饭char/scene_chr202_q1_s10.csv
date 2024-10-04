@@ -1,0 +1,29 @@
+id,name,text,trans
+0-chapter-name,,先輩達を救え,拯救前辈们
+0-synopsis,,先輩達の不調を見抜いたパヴィーダは、不調の原因が環境変化によるものだと知る。故郷の山へ一旦戻りたい、と言うパヴィーダの頼みを一行は承諾し、パヴィーダの故郷の山へ向かう。,帕维达察觉到前辈们身体不适，得知原因是环境变化。众人答应了帕维达「想暂时回故乡的山上」的请求，前往帕维达故乡的山上。
+0,,パヴィーダが仲間に加わってから、\nしばらくたったある日。,帕维达加入队伍后，\n过了一段时间。
+1,小鳥,チチ……,啾……
+2,鳥,クワ……,咕……
+3,,パヴィーダの「先輩」達の\n元気がなくなっていた。,帕维达的「前辈」们\n看起来没什么精神。
+4,ルリア/露莉亚,うーん……\nどうしたんでしょう……？,嗯……\n发生什么事了吗……？
+5,パヴィーダ,先輩達、大丈夫ですか？\n何処か悪いんですか？,前辈们，没事吧？\n哪里不舒服吗？
+6,パヴィーダ,あっ……まさか……\n住む環境が急に変わったから……？,啊……难道说……\n是因为居住环境突然改变了……？
+7,鳥,クワワッ！！\n<span class='scene-font-kokoro'>（うるせェ！</span>\n<span class='scene-font-kokoro'>そんなわけねェだろ！）</span>,咕哇！！\n<span class='scene-font-kokoro'>（吵死了！</span>\n<span class='scene-font-kokoro'>才不是那样呢！）</span>
+8,小鳥,チチッ！！　チチチッ！！\n<span class='scene-font-kokoro'>（オレ達ぁどこも、</span>\n<span class='scene-font-kokoro'>悪かねーよ！！）</span>,啾！！啾啾！！\n<span class='scene-font-kokoro'>（我们哪里，</span>\n<span class='scene-font-kokoro'>都不难受！！）</span>
+9,パヴィーダ,……嘘はダメです先輩！\n僕はあなた達の\nお世話をしてきた後輩です！,……不能撒谎啊前辈们！\n我可是受你们\n照顾的后辈啊！
+10,パヴィーダ,先輩達が苦しんでいるのを、\n見逃すわけがないでしょう！,前辈们在受苦，\n我怎么可能视而不见！
+11,猪,フゴゴ……\n<span class='scene-font-kokoro'>（ヘッ……</span>\n<span class='scene-font-kokoro'>言うようになったじゃねぇか）</span>,呼噜……\n<span class='scene-font-kokoro'>（嘿……</span>\n<span class='scene-font-kokoro'>会说话了啊）</span>
+12,猪,フゴゴゴ……\n<span class='scene-font-kokoro'>（確かに俺達は今、不調だ。</span>\n<span class='scene-font-kokoro'>お前の言う通り、環境変化のせいだ。）</span>,呼噜噜……\n<span class='scene-font-kokoro'>（我们的确现在，身体不适。</span>\n<span class='scene-font-kokoro'>就如你所说，是环境变化的缘故。）</span>
+13,パヴィーダ,やっぱり……\n……それじゃあ、一旦、\n山に帰れば……,果然如此……\n……那么，暂时，\n回山上看看……
+14,鳥,クワワ……\n<span class='scene-font-kokoro'>（もしかしたら、</span>\n<span class='scene-font-kokoro'>元気になるかもしんねェな……）</span>,咕哇……\n<span class='scene-font-kokoro'>（说不定，</span>\n<span class='scene-font-kokoro'>就能恢复精神了呢……）</span>
+15,パヴィーダ,なるほど……,原来如此……
+16,ビィ/碧,えぇ……っと？\nなんて言ってたんだ？,呃……？\n它们说什么呢？
+17,パヴィーダ,先輩達、一旦山へ帰れば\n元気になるかもしれないって。,前辈们说，暂时回山上\n说不定就能恢复精神了。
+18,パヴィーダ,だからお願い！\n一旦、僕の住んでた山に、\n戻ることは出来ないかな！？,所以拜托了！\n能让我们暂时，\n回我住过的山上看看吗！？
+19,パヴィーダ,先輩達を……助けたいんだ！！,我想……帮助前辈们！！
+20,小鳥,チチチ……\n<span class='scene-font-kokoro'>（パヴィ……）</span>,啾啾啾……\n<span class='scene-font-kokoro'>（帕维……）</span>
+21,ラカム/拉卡姆,しょうがねぇな……\nよっしゃ、パヴィーダが\n住んでいた山へ一旦戻るぜ！,真是没办法啊……\n好吧，我们暂时\n回帕维达住过的山上看看吧！
+22,パヴィーダ,ありがとう！！\n……先輩達、\n少しだけ辛抱してね。,谢谢！！\n……前辈们，\n再稍微忍耐一下。
+23,,こうして一行は、\nパヴィーダが住んでいた山へと\n向かうことになった。,就这样，一行人\n决定前往\n帕维达住过的山上。
+info,,,scene_chr202_q1_s10
+译者,,,Gemini

@@ -1,0 +1,53 @@
+id,name,text,trans
+0-chapter_name,,迷えども、悩めども,即使迷茫，即使烦恼
+0-synopsis,,昼食の後、海で泳ごうとする姬塔達。しかしガレヲンが泳げないことを知り、ビーチバレーをすることに。ガレヲンはボールを膨らませようとするが、息を吹き込みすぎてボールが割れてしまう。ボールを借りてきて楽しい時間を過ごした一行だったが、ガレヲンは何度も姬塔達の楽しいひとときに水を差してしまったと肩を落とすのだった。,午饭后，姬塔一行打算去海里游泳。然而，在得知伽莱翁不会游泳后，他们决定改玩沙滩排球。伽莱翁试图给球充气，却因为吹气过度导致球破裂了。虽然一行人借来了球并度过了愉快的时光，但伽莱翁却因为多次破坏了姬塔等人的兴致而垂头丧气。
+1,,夏の休暇を過ごすため、\nアウギュステの海を訪れた\n姬塔一行。,为了享受暑假，\n姬塔一行来到了\n奥古斯特的海边。
+2,,カツウォヌスを平らげ、\n昼食を済ませた姬塔達は\n次は何をして遊ぶか話し合う。,消灭掉炸鱼排后，\n吃完午饭的姬塔一行\n开始讨论接下来玩什么。
+3,ビィ/碧,腹ごなしの運動がしたい感じは\nあるんだよな～,想要做点运动\n来消化一下食物啊～
+4,ルリア/露莉亚,それじゃあ、泳ぎに行きましょうか！,那么，去游泳吧！
+5,ガレヲン/伽莱翁,目配。\n<span class='scene-font-kokoro'>（では、私はここで貴方方を</span>\n<span class='scene-font-kokoro'>見守っていることにしましょう）</span>,使眼色。\n<span class='scene-font-kokoro'>（那么，我就在这里</span>\n<span class='scene-font-kokoro'>守护着各位吧）</span>
+6,ナルメア/娜尔梅亚,見守る……？\nガレヲンさんは泳がないの？,守护……？\n伽莱翁先生不游泳吗？
+7,ガレヲン/伽莱翁,困難。\n<span class='scene-font-kokoro'>（泳がない……というより、</span>\n<span class='scene-font-kokoro'>泳げないのです）</span>,困难。\n<span class='scene-font-kokoro'>（与其说不游……</span>\n<span class='scene-font-kokoro'>不如说是不会游）</span>
+8,ルリア/露莉亚,えっ！？　そうなんですか？\nカツウォヌスを捕まえてたくらいですし\n泳ぐのもとっても上手なのかと……,诶！？　是这样吗？\n因为您还抓过炸鱼排的鱼\n我还以为您游泳也很厉害呢……
+9,ガレヲン/伽莱翁,散策。\n<span class='scene-font-kokoro'>（魚を捕まえた時は、</span>\n<span class='scene-font-kokoro'>海底を歩いていました）</span>,散步。\n<span class='scene-font-kokoro'>（抓鱼的时候，</span>\n<span class='scene-font-kokoro'>我是走在海底的）</span>
+10,ガレヲン/伽莱翁,敬意。\n<span class='scene-font-kokoro'>（泳法とは、ヒトの子が生み出した</span>\n<span class='scene-font-kokoro'>繊細な技術……）</span>,敬意。\n<span class='scene-font-kokoro'>（游泳是人类创造的</span>\n<span class='scene-font-kokoro'>精细技术……）</span>
+11,ガレヲン/伽莱翁,難儀。\n<span class='scene-font-kokoro'>（顕現体での力加減にも難渋する私では</span>\n<span class='scene-font-kokoro'>なかなか再現が難しいのです……）</span>,难办。\n<span class='scene-font-kokoro'>（像我这样连在显现体状态下</span>\n<span class='scene-font-kokoro'>控制力量都感到困难的人</span>\n<span class='scene-font-kokoro'>想要再现游泳就很困难了……）</span>
+12,ビィ/碧,まあ確かに、言われてみりゃ\n練習したって泳げないって奴が\nいるくらいだもんな。,嘛，确实，说起来\n也的确有那种\n就算练习也学不会游泳的人。
+13,ナルメア/娜尔梅亚,でも、ガレヲンさんひとりで\n待ってるのは寂しいよ？　お姉さんも\nガレヲンさんと遊びたいし……,可是，伽莱翁先生一个人\n待着很寂寞啊？　姐姐也\n想和伽莱翁先生一起玩……
+13-sel1_txt,,他の遊びにしよう！,玩别的吧！
+15,ガレヲン/伽莱翁,陳謝。\n<span class='scene-font-kokoro'>（すみません……</span>\n<span class='scene-font-kokoro'>気を遣わせてしまっていますね）</span>,致歉。\n<span class='scene-font-kokoro'>（对不起……</span>\n<span class='scene-font-kokoro'>让你们费心了）</span>
+16,ルリア/露莉亚,みんなで一緒に遊ぶ方が\n楽しいですから！\n気にしないでください！,大家一起玩\n才更开心嘛！\n请不要在意！
+17,ガレヲン/伽莱翁,感謝。\n<span class='scene-font-kokoro'>（ありがとう。</span>\n<span class='scene-font-kokoro'>優しいのですね、貴方方は……）</span>,感谢。\n<span class='scene-font-kokoro'>（谢谢。</span>\n<span class='scene-font-kokoro'>你们真是温柔啊……）</span>
+18,ナルメア/娜尔梅亚,それじゃあ、何をしよっか？\n体を動かすのがいいなら、\nうーん……,那么，玩什么呢？\n如果想活动身体的话，\n嗯……
+19,ナルメア/娜尔梅亚,あっ！　ビーチバレーとかどうかな？\nボール、確か荷物の中に\n入れてたと思うし……,啊！　沙滩排球怎么样？\n我记得球\n好像放在行李里了……
+20,ビィ/碧,おっ、いいんじゃねぇか？\nオイラが審判やってやるよ！,哦，不错嘛？\n我来当裁判吧！
+21,ガレヲン/伽莱翁,不識。\n<span class='scene-font-kokoro'>（びーちばれー……</span>\n<span class='scene-font-kokoro'>どのような遊戯なのですか？）</span>,不认识。\n<span class='scene-font-kokoro'>（沙滩排球……</span>\n<span class='scene-font-kokoro'>是怎样的游戏？）</span>
+22,ルリア/露莉亚,えーっとですね、\nふたつの陣地に分かれて\nボールを打ちあって……,嗯，就是说，\n分成两队\n互相击球……
+23,,姬塔達はガレヲンに\nビーチバレーの説明をしつつ、\n海の家から砂浜へと向かう。,姬塔等人一边向伽莱翁\n说明沙滩排球的规则，\n一边从海之家走向沙滩。
+28,ナルメア/娜尔梅亚,ボールはね、\nこれを使うんだよガレヲンさん。,球呢，\n就用这个哦，伽莱翁先生。
+29,ガレヲン/伽莱翁,平坦。\n<span class='scene-font-kokoro'>（おや……？　ボールと言うには</span>\n<span class='scene-font-kokoro'>随分と平べったいのですね？）</span>,扁平。\n<span class='scene-font-kokoro'>（咦……？　说是球</span>\n<span class='scene-font-kokoro'>也太扁了吧？）</span>
+30,ルリア/露莉亚,息を吹き込んで膨らますんですよ！\nこうやって、ふーっ……,吹气进去让它膨胀起来！\n像这样，呼——……
+31,,ルリアが懸命にボールを\n膨らませようとするが、\nなかなか丸くならない。,露莉亚拼命地想把球\n吹起来，\n但它就是鼓不起来。
+32,ルリア/露莉亚,ふぅ……,呼……
+33,ガレヲン/伽莱翁,交代。\n<span class='scene-font-kokoro'>（成程、理解しました。蒼の娘、</span>\n<span class='scene-font-kokoro'>膨らませるのを代わりましょう）</span>,我来吧。\n<span class='scene-font-kokoro'>（我明白了。苍之少女，</span>\n<span class='scene-font-kokoro'>我来帮你吹吧）</span>
+34,ルリア/露莉亚,ありがとうございます、ガレヲンさん。,谢谢您，伽莱翁先生。
+35,ガレヲン/伽莱翁,呼気。\n<span class='scene-font-kokoro'>（ここに口をつけて、</span>\n<span class='scene-font-kokoro'>……ふーっ……！）</span>,呼气。\n<span class='scene-font-kokoro'>（把嘴放在这里，</span>\n<span class='scene-font-kokoro'>……呼——……！）</span>
+38,ガレヲン/伽莱翁,唖然。\n<span class='scene-font-kokoro'>（…………！？）</span>,哑然。\n<span class='scene-font-kokoro'>（…………！？）</span>
+39,ビィ/碧,驚いたぜ……！\n息吹き込みすぎると\nボールって割れるんだな……！？,吓我一跳……！\n吹气吹过头了\n球居然会爆掉啊……！？
+40,ガレヲン/伽莱翁,悄然。\n<span class='scene-font-kokoro'>（よもや……このような……</span>\n<span class='scene-font-kokoro'>申し訳なく、思います……）</span>,沮丧。\n<span class='scene-font-kokoro'>（居然……会这样……</span>\n<span class='scene-font-kokoro'>我感到很抱歉……）</span>
+41,ガレヲン/伽莱翁,失態。\n<span class='scene-font-kokoro'>（確かに、力の加減をするのは</span>\n<span class='scene-font-kokoro'>難しいのですが……とはいえ……）</span>,失态。\n<span class='scene-font-kokoro'>（确实，控制力量很困难</span>\n<span class='scene-font-kokoro'>但是……即便如此……）</span>
+42,ナルメア/娜尔梅亚,大丈夫、ボールを貸してくれる\nお店もあるから！\nお姉さん、ちょっと行ってくるね。,没关系，有可以借球的\n店！\n姐姐我去一下。
+45,ガレヲン/伽莱翁,役割。\n<span class='scene-font-kokoro'>（……借り受けるのならば、</span>\n<span class='scene-font-kokoro'>私が行くべきだったのでは……）</span>,职责。\n<span class='scene-font-kokoro'>（……如果是去借的话，</span>\n<span class='scene-font-kokoro'>应该我去才对……）</span>
+46,ビィ/碧,まあ気にすんなって。\nオイラ達も割れちまうかもなんて\n考えもしなかったんだしさ。,嘛，别在意啦。\n我们也没想到会爆掉啊。
+47,ガレヲン/伽莱翁,懊悩。\n<span class='scene-font-kokoro'>（それは……</span>\n<span class='scene-font-kokoro'>……ですが……）</span>,懊恼。\n<span class='scene-font-kokoro'>（那是……</span>\n<span class='scene-font-kokoro'>……但是……）</span>
+48,ガレヲン/伽莱翁,（特異点達が遊ぼうという時に、\n何度も水を差してしまうとは……\n……情けない……）,（在特异点们想要玩的时候，\n我却一再扫兴……\n……真是没用……）
+49,,しょんぼりと肩を落とすガレヲンに、\n姬塔は重ねて気にしないよう\n告げる。,姬塔对垂头丧气的伽莱翁\n再次表示不用在意。
+50,ガレヲン/伽莱翁,感謝。\n<span class='scene-font-kokoro'>（ありがとうございます、特異点。</span>\n<span class='scene-font-kokoro'>貴方方の優しさに救われています）</span>,感谢。\n<span class='scene-font-kokoro'>（谢谢您，特异点。</span>\n<span class='scene-font-kokoro'>您的温柔拯救了我）</span>
+51,ガレヲン/伽莱翁,（私も……同じように優しさを\n返したいと願っているのですが……\nそれのなんと難しいことか……）,（我也……希望能以同样的温柔\n回报你们……\n但这又是多么困难啊……）
+54,ナルメア/娜尔梅亚,ボール、借りられたよ！\nビーチバレー始めよっか。,球，借到了！\n开始玩沙滩排球吧。
+55,ビィ/碧,ありがとな、ナルメア！\nそれじゃ、チーム分けからだな。\nえーっと……,谢啦，娜尔梅亚！\n那么，先分队吧。\n嗯……
+56,,ハプニングはありつつも、\n姬塔達は浜辺で\n楽しい時間を過ごしたのだった。,虽然发生了些小插曲，\n姬塔一行还是在海边\n度过了愉快的时光。
+63,ガレヲン/伽莱翁,…………,…………
+64,,ガレヲンの心に、ほんの少しの\n引っ掛かりを残しながら──,在伽莱翁的心中，留下了一丝\n小小的芥蒂——
+info,,,scene_chr887_q1_s10
+译者,,,Gemini

@@ -1,0 +1,35 @@
+id,name,text,trans
+0-chapter_name,,お兄ちゃんは妹に会いたい,哥哥想见妹妹
+0-synopsis,,姬塔一行は、旅の休息にライアンの故郷を訪れる。待ち望んでいた妹との再会が果たされるかと思いきや、ライアンの家に向かうとそこには「おにぃへ。家出することにした。森へ行く」という手紙だけが残されていた。妹を探しに飛び出すライアンを追いかけ、姬塔一行も魔物が潜む森へと急ぐ。,姬塔一行为了休息造访了莱安的故乡。本以为能够见到他期盼已久的妹妹，但当一行人抵达莱安家时，只发现了一封写着「给哥哥。我决定离家出走了。去森林。」的信。莱安冲出去寻找妹妹，姬塔一行也紧随其后，赶往潜伏着魔物的森林。
+0,,たまっている依頼を片付けた\n姬塔一行はライアンの\n故郷を訪れていた。,完成了积压的委托的\n姬塔一行造访了莱安的\n故乡。
+1,,<span class='scene-font-katari'>穏やかな村を進んでいくと、</span>\n<span class='scene-font-katari'>ライアンの帰還を喜ぶ村人達が</span>\n<span class='scene-font-katari'>集まってくる。,<span class='scene-font-katari'>在平静的村庄里走着，</span>\n<span class='scene-font-katari'>为莱安的归来感到高兴的村民们</span>\n<span class='scene-font-katari'>聚集了过来。
+2,村人１/村民１,おお、おお！\nライアン！　よく帰ってきた！,哦哦！\n莱安！欢迎回来！
+3,村人２/村民２,あらやだ、ずいぶんと\n逞しくなったのねぇ！\nお連れさんはお友達？　歓迎するわ～！,哎呀呀，变得\n很强壮了呢！\n你带来的这些人是朋友吗？欢迎欢迎！
+4,ライアン,ありがとう。\nなぁ、コンロンは家にいるか？,谢谢。\n呐，空论在家吗？
+5,子供/孩子,うん！　コンロン姉ちゃんなら、\nさっきまで野菜の世話してたよ！,嗯！空论姐姐的话，\n刚才还在照顾蔬菜呢！
+6,ライアン,そうか！\nよし、今すぐお兄ちゃん帰るからね！\nコンロン！,是吗！\n好，哥哥我这就回去！\n空论！
+8,ビィ/碧,おい、こら！　待て待て！\nみんなお前を出迎えてるんだぞー！\nおーいライアン！！,喂，你小子！等等！\n大家都在迎接你呢！\n喂——莱安！！
+9,村人２/村民２,ふふふ、いいのよ。\n彼は昔から、妹一筋なんだから。,呵呵呵，没关系的。\n他从以前开始就是个妹控。
+10,村人１/村民１,しかし……コンロンの奴、\n怒ってないだろうか……,但是……空论那家伙，\n不会生气吧……
+11,村人２/村民２,うーんまぁ……大丈夫でしょ。\nさ、あなた達も、ライアンのとこへ、\n行ってらっしゃい。,嗯……应该没事吧。\n好啦，你们也去莱安那里\n看看吧。
+12,,<span class='scene-font-katari'>一行は村人の言葉に首を傾げつつ、</span>\n<span class='scene-font-katari'>ライアンの後を追う。,<span class='scene-font-katari'>一行人带着疑惑，</span>\n<span class='scene-font-katari'>追上了莱安。
+15,ライアン,遅かったな。\nここが我が家だ。\n俺の妹が待つ至高の家だ……,来晚了。\n这就是我家。\n我妹妹在等待着的最棒的家……
+16,,<span class='scene-font-katari'>頬を緩めたライアンが</span>\n<span class='scene-font-katari'>家の扉を開ける。,<span class='scene-font-katari'>面带微笑的莱安</span>\n<span class='scene-font-katari'>打开了家门。
+19,ライアン,ただいまー！！\nコンローン！！\nおにーちゃんだよー！！,我回来啦！！\n空论——！！\n是哥哥呀——！！
+21,ビィ/碧,えっと……なぁ、\n誰もいねぇぞ……？,那个……呐，\n谁也不在啊……？
+22,ライアン,なっ……！　\nそ、そんなはずは……\n庭にも居なかったし……,啊……！\n怎、怎么会……\n院子里也没有……
+23,ルリア/露莉亚,うーん……あっ！\nライアンさん、あそこに手紙が……,嗯……啊！\n莱安先生，那里有封信……
+24,,<span class='scene-font-katari'>ルリアの言葉を聞き、</span>\n<span class='scene-font-katari'>ライアンは机に置かれた</span>\n<span class='scene-font-katari'>手紙に気がつく。,<span class='scene-font-katari'>听到露莉亚的话，</span>\n<span class='scene-font-katari'>莱安注意到了放在桌子上的</span>\n<span class='scene-font-katari'>信。
+25,,<span class='scene-font-katari'>手紙を手に取った</span>\n<span class='scene-font-katari'>ライアンは目を見開き、</span>\n<span class='scene-font-katari'>僅かに震えはじめた。,<span class='scene-font-katari'>莱安拿起信，</span>\n<span class='scene-font-katari'>睁大了眼睛，</span>\n<span class='scene-font-katari'>微微颤抖起来。
+26,ビィ/碧,どうした……？\n何が書いてあったんだ……？,怎么了……？\n写了什么……？
+27,,<span class='scene-font-katari'>一行が手紙を覗き見ると、手紙には</span>\n<span class='scene-font-katari'>可愛いらしい字体でライアンへの</span>\n<span class='scene-font-katari'>メッセージが書かれていた。,<span class='scene-font-katari'>一行人看向信，信上</span>\n<span class='scene-font-katari'>用可爱的字体写着给莱安的</span>\n<span class='scene-font-katari'>留言。
+28,,『おにぃへ。\n家出することにした。森へ行く』,『给哥哥。\n我决定离家出走了。去森林』
+30,ライアン,い、いいい家出ぇぇぇ！？\nな、なんでなぜ！？,离、离家出走！？\n为、为什么！？
+31,ビィ/碧,お、おい！　落ち着けライアン！！\n森へ行くって書いてあるぞ！,喂、喂！冷静点莱安！！\n上面写着去森林啊！
+32,ライアン,森ってことは……あの森かぁ！？\n魔物がいっぱいでるあの森ぃ！？\nこ、コンロン！！　今助けにいくからね！,森林的话……是那个森林吗！？\n有很多魔物出没的那个森林！？\n空、空论！！我这就去救你！
+34,ビィ/碧,うわっ！！\nなんつー速さだ……！,哇！！\n这速度……！
+35,ルリア/露莉亚,えぇっと……家出……\nなんですよね……？\nどうして行き先が書いてあるんですか？,那个……离家出走……\n是这样的吧……？\n为什么上面写着目的地呢？
+36,ビィ/碧,いやぁ……分からねぇなぁ……\nと、とりあえず今は、\nライアンを追おうぜ！,哎呀……不知道啊……\n总、总之现在，\n先追上莱安吧！
+37,,<span class='scene-font-katari'>姬塔は頷き、</span>\n<span class='scene-font-katari'>ライアンを追いかけ、</span>\n<span class='scene-font-katari'>魔物が出ると言う森へ急いで向かう。,<span class='scene-font-katari'>姬塔点了点头，</span>\n<span class='scene-font-katari'>追赶着莱安，</span>\n<span class='scene-font-katari'>急忙赶往据说有魔物出没的森林。
+info,,,scene_chr244_q1_s10
+译者,,,Gemini

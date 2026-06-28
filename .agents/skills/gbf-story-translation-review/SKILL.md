@@ -91,7 +91,7 @@ description: Use when reviewing, checking, polishing, or reworking existing Japa
 * 除非文件格式明确要求显示断行，否则不要把 `0-synopsis` 纳入普通对话断行检查。
 * 保留原有标记标签，如 `<span class='scene-font-4'>...</span>`，只翻译其中可见文本。
 * 原文使用 `「」` 时，译文保留日式引号 `「」`；不要替换成中文弯引号 `“”`。
-* 原文使用书名号式引号如 `『』` 时，在中文中保留合适的日式引号形式；通常使用 `「」`，除非项目示例要求其他形式。
+* 原文使用书名号式引号如 `『』` 时，在中文中保留合适的日式引号形式
 
 ## CSV 编辑流程
 

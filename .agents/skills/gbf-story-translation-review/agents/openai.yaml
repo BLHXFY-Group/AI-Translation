@@ -1,0 +1,4 @@
+interface:
+  display_name: "GBF Translation Review"
+  short_description: "碧蓝幻想剧情 CSV 译文检查、润色、术语统一与断行规范"
+  default_prompt: "Use $gbf-story-translation-review to review or polish existing Granblue Fantasy story CSV translations for this project."

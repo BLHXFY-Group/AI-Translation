@@ -1,4 +1,4 @@
 interface:
   display_name: "GBF Story Translation"
-  short_description: "碧蓝幻想剧情 CSV 简体中文初译、审校与断行规范"
-  default_prompt: "Use $gbf-story-translation to translate or review Granblue Fantasy story CSV files for this project."
+  short_description: "碧蓝幻想剧情 CSV 连续翻译、审校与一致性验证"
+  default_prompt: "Use $gbf-story-translation to translate and review the next Granblue Fantasy story CSV while preserving cross-file consistency."

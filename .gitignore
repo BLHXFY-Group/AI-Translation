@@ -11,5 +11,6 @@ yarn-error.log
 npm-debug.log
 .DS_Store
 gbf_wiki_tools/.runtime/
+gbf_wiki_tools/tests/
 __pycache__/
 *.pyc

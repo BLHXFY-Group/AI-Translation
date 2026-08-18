@@ -14,6 +14,7 @@ VENV_PYTHON = (
     else VENV_DIR / "bin" / "python"
 )
 SCRIPT_PATH = APP_DIR / "fetch_gbf_wiki_jp_names.py"
+VALENTINE_SCRIPT_PATH = APP_DIR / "fetch_gbf_wiki_valentine_names.py"
 REQUIREMENTS_PATH = APP_DIR / "requirements.txt"
 
 
@@ -75,7 +76,7 @@ def install_dependencies() -> bool:
     return False
 
 
-def run_update(mode: str, title: str) -> bool:
+def run_script(script_path: Path, args: list[str], title: str) -> bool:
     if not dependency_status(show=False):
         print()
         print("依赖尚未安装，请先选择 [1] 安装依赖。")
@@ -85,7 +86,7 @@ def run_update(mode: str, title: str) -> bool:
     print(f"正在执行{title}...")
     print(flush=True)
     result = subprocess.run(
-        [str(VENV_PYTHON), str(SCRIPT_PATH), mode],
+        [str(VENV_PYTHON), str(script_path), *args],
         check=False,
     )
     print()
@@ -94,6 +95,10 @@ def run_update(mode: str, title: str) -> bool:
         return True
     print("操作失败，请查看上方错误信息。")
     return False
+
+
+def run_update(mode: str, title: str) -> bool:
+    return run_script(SCRIPT_PATH, [mode], title)
 
 
 def pause_and_continue() -> None:
@@ -116,6 +121,7 @@ def main() -> None:
         print("[1] 安装或修复 Python 依赖")
         print("[2] 全量更新人物名 CSV")
         print("[3] 增量更新人物名 CSV")
+        print("[4] 更新情人节返礼人名 CSV")
         print("[Q] 退出")
         print()
         try:
@@ -132,11 +138,14 @@ def main() -> None:
         elif choice == "3":
             run_update("update", "增量更新")
             pause_and_continue()
+        elif choice == "4":
+            run_script(VALENTINE_SCRIPT_PATH, [], "情人节返礼人名更新")
+            pause_and_continue()
         elif choice == "q":
             return
         else:
             print()
-            print("无效选项，请输入 1、2、3 或 Q。")
+            print("无效选项，请输入 1、2、3、4 或 Q。")
             pause_and_continue()
 
 

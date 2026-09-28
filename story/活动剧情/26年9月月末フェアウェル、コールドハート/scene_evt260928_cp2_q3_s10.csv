@@ -12,7 +12,7 @@ id,name,text,trans
 13,アルメイダ,よっ！　お待たせ！\n悪いね、あたいの都合で\n何日も待たせちまって！,哟！让你们久等了！\n不好意思啊，因为我的事\n让你们等了这么多天！
 14,ルリア/露莉亚,アルメイダさん！\nもしかして、グロウノス覚醒の\n協力者、って……,阿鲁梅达小姐！\n难道协助古洛诺斯觉醒的人\n就是……
 15,イルザ/伊尔莎,そう、彼女だ。\n長年グロウノスを研究し、遂には\n封印武器に迫る大鎌を作り上げた。,没错，就是她。\n她常年研究古洛诺斯，最终还打造出了\n一把足以比肩封印武器的巨镰。
-16,アルメイダ,へへっ、まだまだ！\n切れ味は出せても、グロウノスみたいに\n長持ちしないわけで。,嘿嘿，还差得远呢！\n锋利度是够了，可就是没法像古洛诺斯那样\n经久耐用。
+16,アルメイダ,へへっ、まだまだ！\n切れ味は出せても、グロウノスみたいに\n長持ちしないわけで。,嘿嘿，还差得远呢！\n锋利度是够了，\n可就是没法像古洛诺斯那样经久耐用。
 17,アルメイダ,実物をいじらせてもらえるなんて、\nまたとない機会だからね。\nあたいにとっちゃ、ありがたいよ。,能让我摆弄实物，\n这种机会可是千载难逢。\n对我来说反而求之不得呢。
 18,アルメイダ,……でも、聞いた話じゃ、グロウノスは\n機械の塊みたいなモンなんだろ？,……不过，我听说\n古洛诺斯就像是个机械疙瘩，对吧？
 19,アルメイダ,このあたいが、\nその……“覚醒”がどうこうの\n力になれるのかね？,就凭我，\n真能在那个……“觉醒”什么的事情上\n帮到你们吗？
@@ -31,19 +31,19 @@ id,name,text,trans
 37,バザラガ/巴萨拉卡,ああ。,嗯。
 38,組織の兵３,グロウノス覚醒実験開始！,古洛诺斯觉醒实验开始！
 39,,組織の兵が、端末に\nアルベスがゼタを通じて提供した\n覚醒コードを入力する。,组织士兵将阿尔贝斯通过泽塔\n提供的觉醒代码输入终端。
-40,グロウノス/古洛诺斯,ｺﾁｿﾉﾆﾐｷ ﾅｾ ｿﾅｽｽｲﾐｶ ﾄｲｶｶﾆﾐｷﾄ. ｿﾗﾓﾓｲﾐｿﾆﾐｷ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ﾊﾗｽ ﾄｲﾁﾘ ﾃｲﾁｾﾗﾐ ﾁﾐｼ ｿﾗﾓｾﾁｶﾆｺﾘｲ ﾅﾄｲｽ.,KOCHISONONIMIKI NASE SONASUSUIMIKA TOIKAKANIMIKITO. SORAMOMOMIMISONIMIKI RASEKANIMONITSUCHIKANIRAMI SESURAKARASORARI HARASU TOICHIRI TEICHISERAMI CHIMISHI SORAMOSECHIKANIKORII NATOISU.
-41,グロウノス/古洛诺斯,ｿｸﾁﾐｷﾆﾐｷ ｾｽﾆﾗｽﾆｶﾝ ﾗﾊ ｶｸﾆﾄ ﾅﾐﾆｶ ﾊｽﾗﾓ ﾁｽﾋｲﾄﾄ ﾄﾘﾁﾋｲ ｶﾗ ﾆﾐｼｲｾｲﾐｼｲﾐｶ ﾓﾁﾄｶｲｽ.,SOKUCHIMIKINIMIKI SESUNIRASUNIKAN RAH A KAKUNITO NAMINIKA HASURAMO CHISUHIITOTO TORICHIHII KARA NIMISHIISEIMISHIIMIKA MOCHITOKAISU.
-42,グロウノス/古洛诺斯,ﾆﾐﾄﾅﾊﾊﾆｿﾆｲﾐｶ ﾐﾅﾓｺｲｽ ﾗﾊ ｾｽﾗｿｲﾄﾄﾗｽﾄ. ｾｽﾗｿｲﾄﾄﾗｽﾄ ｼｲｶｲｿｶｲｼ ﾃﾆｶｸﾆﾐ ｺﾗｼﾝ ﾗﾊ ｿﾗﾓｾﾁｶﾆｺﾘｲ ﾅﾄｲｽ.,NIMITONAHANISONIIMIKA MINAMOKOISU RAHA SESURASOITOTORASUTO. SESURASOITOTORASUTO SHIIKAISOKAISHI TENIKAKUNIMI KORASHIN RAHA SORAMOSECHIKANIKORII NATOISU.
-43,グロウノス/古洛诺斯,ｶｲｽﾓﾆﾐﾁｶﾆﾐｷ ﾄｶﾁﾐｼﾁｽｼ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ﾁﾐｼ ｿﾗﾐﾄｶｽﾅｿｶﾆﾐｷ ﾁｼﾁｾｶｲｼ ｾｽﾗｶﾗｿﾗﾘ.,KAISUMONIMICHIKANIMIKI TOKACHIMISHICHISUSHI RASEKANIMONITSUCHIKANIRAMI SESURAKARASORARI CHIMISHI SORAMITOKASUNASOKANIMIKI CHISHICHISEKAISHI SESURAKARASORARI.
-44,グロウノス/古洛诺斯,ﾁｿｿｲﾄﾄﾆﾐｷ ｾｽﾗｿｲﾄﾄﾗｽﾄ ﾋﾆﾁ ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ. ﾊﾁﾆﾘｲｼ ｼﾅｲ ｶﾗ ﾁﾐﾗﾓﾁﾘﾝ ﾆﾐ ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ.,CHISOISOITOTONIMIKI SESURASOITOTORASUTO HINICHI MIISUHARANATO TONTOKAIMO. HACHINIRIISHI SHINAI KARA CHIMIRAMOCHIRIN NIMI MIISUHARANATO TONTOKAIMO.
-45,グロウノス/古洛诺斯,ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ ﾓﾅﾄｶ ｺｲ ｽｲｾﾁﾆｽｲｼ ｾｽﾆﾗｽ ｶﾗ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ. ﾁｶｶｲﾓｾｶﾆﾐｷ ｽｲｾﾁﾆｽﾄ ﾅﾄﾆﾐｷ ﾓﾁｿｸﾆﾐｲ ｿｲﾘﾘ ﾄﾅｾｾﾘｲﾓｲﾐｶﾁｶﾆﾗﾐ.,MIISUHARANATO TONTOKAIMO MONATOKA KOI SUISECHINISUISHI SESUNIRASU KARA RASEKANIMONITSUCHIKANIRAMI SESURAKARASORARI. CHIKAKAIMOSEKANIMIKI SUISECHINISUTO NATONIMIKI MOCHISONIMII SOIRIRI TONASESERIIMOIMIKACHIKANIRAMI.
-46,グロウノス/古洛诺斯,ｽｲｾﾁﾆｽ ｿﾗﾓｾﾘｲｶｲ. ﾄｿﾁﾐﾐﾆﾐｷ ｿﾗﾓｺﾆﾐｲｼ ｾｲｽﾊﾗｽﾓﾁﾐｿｲ. ﾁｿｿｲﾘｲｽﾁｶｲｼ ｿﾗﾓﾓﾅﾐﾆｿﾁｶﾆﾗﾐ ﾃﾆｶｸ ﾅﾄｲｽ ｾｽﾗｿｲﾄﾄﾗｽﾄ ｽｲﾀﾅﾆｽｲｼ ｶﾗ ﾓﾁｻﾆﾓﾆﾂｲ.,SUISECHINISU SORAMOSERIIKAI. TOSOCHIMIMINIMIKI SORAMOKONIMIISHI SEISUHARASUMOCHIMISOI. CHISOISOIRIISUCHIKAISHI SORAMOMONAMINISOCHIKANIRAMI TENIKAKU NATOISU SESURASOITOTORASUTO SUITANANISUISHI KARA MOCHISANIMONITSUI.
-47,グロウノス/古洛诺斯,ｿﾁﾘｿﾅﾘﾁｶﾆﾐｷ ﾐｲﾃ ｿﾆｽｿﾅﾆｶ ﾄｾｲｲｼ ﾁﾐｼ ﾊﾗｽﾓ ｽｲﾀﾅﾆｽｲﾓｲﾐｶﾄ. ｽｲﾊﾘｲｿｶﾆﾐｷ ｿｸﾁﾐｷｲﾄ ﾗﾐｶﾗ ﾅﾄｲｽ.,SOCHIRISONARICHIKANIMIKI MIITE SONISUSONANIKA TOSEIISHI CHIMISHI HARASUMO SUITANANISUIMOIMIKATO. SUIHARIISOKANIMIKI SOKUCHIMIKIITO RAMIKARA NATOISU.
+40,グロウノス/古洛诺斯,ｺﾁｿﾉﾆﾐｷ ﾅｾ ｿﾅｽｽｲﾐｶ ﾄｲｶｶﾆﾐｷﾄ. ｿﾗﾓﾓｲﾐｿﾆﾐｷ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ﾊﾗｽ ﾄｲﾁﾘ ﾃｲﾁｾﾗﾐ ﾁﾐｼ ｿﾗﾓｾﾁｶﾆｺﾘｲ ﾅﾄｲｽ.,正在备份当前设置。\n开始执行封印武器\n及适配使用者的优化协议。
+41,グロウノス/古洛诺斯,ｿｸﾁﾐｷﾆﾐｷ ｾｽﾆﾗｽﾆｶﾝ ﾗﾊ ｶｸﾆﾄ ﾅﾐﾆｶ ﾊｽﾗﾓ ﾁｽﾋｲﾄﾄ ﾄﾘﾁﾋｲ ｶﾗ ﾆﾐｼｲｾｲﾐｼｲﾐｶ ﾓﾁﾄｶｲｽ.,正在将本机的优先级\n从最高级从属单元\n更改为独立主控单元。
+42,グロウノス/古洛诺斯,ﾆﾐﾄﾅﾊﾊﾆｿﾆｲﾐｶ ﾐﾅﾓｺｲｽ ﾗﾊ ｾｽﾗｿｲﾄﾄﾗｽﾄ. ｾｽﾗｿｲﾄﾄﾗｽﾄ ｼｲｶｲｿｶｲｼ ﾃﾆｶｸﾆﾐ ｺﾗｼﾝ ﾗﾊ ｿﾗﾓｾﾁｶﾆｺﾘｲ ﾅﾄｲｽ.,处理器数量不足。\n检测到适配使用者体内存在处理器。
+43,グロウノス/古洛诺斯,ｶｲｽﾓﾆﾐﾁｶﾆﾐｷ ﾄｶﾁﾐｼﾁｽｼ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ﾁﾐｼ ｿﾗﾐﾄｶｽﾅｿｶﾆﾐｷ ﾁｼﾁｾｶｲｼ ｾｽﾗｶﾗｿﾗﾘ.,正在终止标准优化协议，并构建适配协议。
+44,グロウノス/古洛诺斯,ﾁｿｿｲﾄﾄﾆﾐｷ ｾｽﾗｿｲﾄﾄﾗｽﾄ ﾋﾆﾁ ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ. ﾊﾁﾆﾘｲｼ ｼﾅｲ ｶﾗ ﾁﾐﾗﾓﾁﾘﾝ ﾆﾐ ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ.,正在尝试通过神经系统访问处理器。\n因神经系统异常，访问失败。
+45,グロウノス/古洛诺斯,ﾐｲｽﾋﾗﾅﾄ ﾄﾝﾄｶｲﾓ ﾓﾅﾄｶ ｺｲ ｽｲｾﾁﾆｽｲｼ ｾｽﾆﾗｽ ｶﾗ ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ. ﾁｶｶｲﾓｾｶﾆﾐｷ ｽｲｾﾁﾆｽﾄ ﾅﾄﾆﾐｷ ﾓﾁｿｸﾆﾐｲ ｿｲﾘﾘ ﾄﾅｾｾﾘｲﾓｲﾐｶﾁｶﾆﾗﾐ.,必须先修复神经系统，才能执行优化协议。\n正在尝试通过补充机械细胞进行修复。
+46,グロウノス/古洛诺斯,ｽｲｾﾁﾆｽ ｿﾗﾓｾﾘｲｶｲ. ﾄｿﾁﾐﾐﾆﾐｷ ｿﾗﾓｺﾆﾐｲｼ ｾｲｽﾊﾗｽﾓﾁﾐｿｲ. ﾁｿｿｲﾘｲｽﾁｶｲｼ ｿﾗﾓﾓﾅﾐﾆｿﾁｶﾆﾗﾐ ﾃﾆｶｸ ﾅﾄｲｽ ｾｽﾗｿｲﾄﾄﾗｽﾄ ｽｲﾀﾅﾆｽｲｼ ｶﾗ ﾓﾁｻﾆﾓﾆﾂｲ.,修复完成。正在扫描综合性能。\n要使其达到最大值，\n必须加速与使用者处理器的通信。
+47,グロウノス/古洛诺斯,ｿﾁﾘｿﾅﾘﾁｶﾆﾐｷ ﾐｲﾃ ｿﾆｽｿﾅﾆｶ ﾄｾｲｲｼ ﾁﾐｼ ﾊﾗｽﾓ ｽｲﾀﾅﾆｽｲﾓｲﾐｶﾄ. ｽｲﾊﾘｲｿｶﾆﾐｷ ｿｸﾁﾐｷｲﾄ ﾗﾐｶﾗ ﾅﾄｲｽ.,正在计算新回路的速度与形态需求。\n正在将变更应用于使用者。
 48,バザラガ/巴萨拉卡,く……！,唔……！
 49,組織の兵３,反応あり……ですが、\nなんらかの異常が出ている模様です。,有反应……但是，\n似乎出现了某种异常。
 50,イルザ/伊尔莎,何……？\nアルメイダ、何かわかるか？,什么……？\n阿鲁梅达，你看出什么了吗？
 51,アルメイダ,……なんだろ。\n鎌を握る手が、しっくりきてない……\nみたいな……？,……怎么说呢。\n他握着镰刀的手，感觉不太对劲……\n大概吧……？
-52,アルメイダ,上手く、\n心が通わせられてないような……\nそんな様子だよ。,好像没能顺利地与它\n心意相通……\n看起来是这样。
+52,アルメイダ,上手く、\n心が通わせられてないような……\nそんな様子だよ。,好像没能顺利地与它心意相通……\n看起来是这样。
 53,イルザ/伊尔莎,意思疎通の失敗か……？\nおい、暴走の危険性は？,沟通失败了吗……？\n喂，有失控的风险吗？
 54,組織の兵３,見る限り、\n制御不能の気配はありません。,就目前看来，\n没有要失去控制的迹象。
 55,組織の兵３,しかし、アルベスの想定よりも\n多くの処理が行われている模様で──,但是，似乎正在进行的处理量\n超过了阿尔贝斯的预计──
@@ -53,7 +53,7 @@ id,name,text,trans
 72,イルザ/伊尔莎,あれは！\n大型機と戦った時の……！,这是！\n和大型机交战时的……！
 73,イルザ/伊尔莎,制御内と言ったな！\n実験を中止しろ！,你刚才说还在控制之中吧！\n立刻中止实验！
 74,組織の兵３,はっ！,是！
-75,グロウノス/古洛诺斯,ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ｸﾁﾘｶｲｼ. ｽｲﾋｲｽｶﾆﾐｷ ﾄｲｶｶﾆﾐｷﾄ ﾊｽﾗﾓ ｺﾁｿﾉﾅｾ ﾁﾐｼ ﾆﾐﾆｶﾆﾁｶﾆﾐｷ ｽｲﾄｶﾗｽﾁｶﾆﾗﾐ ｾｽﾗｿｲﾄﾄ.,RASEKANIMONITSUCHIKANIRAMI SESURAKARASORARI KUCHIRIKAISHI. SUIHIISUKANIMIKI TOIKAKANIMIKITO HASURAMO KOCHISONONASE CHIMISHI NIMINIKANICHIKANIMIKI SUITOKARASUCHIKANIRAMI SESURASOITOTO.
+75,グロウノス/古洛诺斯,ﾗｾｶﾆﾓﾆﾂﾁｶﾆﾗﾐ ｾｽﾗｶﾗｿﾗﾘ ｸﾁﾘｶｲｼ. ｽｲﾋｲｽｶﾆﾐｷ ﾄｲｶｶﾆﾐｷﾄ ﾊｽﾗﾓ ｺﾁｿﾉﾅｾ ﾁﾐｼ ﾆﾐﾆｶﾆﾁｶﾆﾐｷ ｽｲﾄｶﾗｽﾁｶﾆﾗﾐ ｾｽﾗｿｲﾄﾄ.,优化协议失败。\n正在从备份中恢复设置，并启动还原流程。
 84,バザラガ/巴萨拉卡,ぐ……は……,唔……哈……
 87,ルリア/露莉亚,バザラガさん！,巴萨拉卡先生！
 88,バザラガ/巴萨拉卡,ああ、大丈夫だ……,嗯，我没事……
